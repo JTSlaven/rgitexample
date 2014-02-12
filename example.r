@@ -10,6 +10,6 @@
 
 # By indicator
 
-# Save the data
+# Save the data (as .rdata, a new CSV, and a .dta)
 
 # Extra credit: create a plot or two
